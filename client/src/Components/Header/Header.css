@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+nav h1 {
+  font-family: 'Jua', sans-serif, italizcize;
+  font-style: italic;
+  font-size: 50px;
+  color: black;
+  margin-left: 10em;
+  margin-bottom: .5em;
+  text-align: center;
+}
