@@ -1,8 +1,6 @@
 {
   "name": "hackernews",
   "version": "1.0.0",
-  "description": "",
-  "main": "knexfile.js",
   "scripts": {
     "build-client": "cd ./client && yarn build",
     "dev": "npm run serve-client & nodemon ./server/app.js",
@@ -21,7 +19,8 @@
     "knex": "^0.14.6",
     "morgan": "^1.9.0",
     "morgan-body": "^2.4.0",
-    "pg": "^7.4.3"
+    "pg": "^7.4.3",
+    "yarn": "^1.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.5",
